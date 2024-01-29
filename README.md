@@ -9,10 +9,10 @@
 + Kursumuzun toplam ücreti __KDV dahil 55.200 TL__'dir. Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 55.200 TL__'dir. Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Python_Programlama_Dili_ve_Uygulamalari/blob/master/_kurs_tanitimi.md
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/_kurs_tanitimi.md
 )
-+ [Kurs İçeriği - Temel Kısım](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/kurs_icerigi_temel_kisim.md)
-+ [Kurs İçeriği - Uygulama Kısmı](https://github.com/CSD-1993/Python_Programlama_Dili_ve_Uygulamalari/blob/master/kurs_icerigi_uygulama.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZMkfumqqT8rE9X7M7_LrrQEN8X3q0QLYDPx)
++ [Kurs İçeriği - Temel Kısım](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/kurs_icerigi_temel_kisim.md)
++ [Kurs İçeriği - Uygulama Kısmı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/kurs_icerigi_uygulama.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/sss.md)
++ [Kursa Kayıt]()
 
