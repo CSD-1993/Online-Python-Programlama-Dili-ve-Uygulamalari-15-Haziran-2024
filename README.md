@@ -1,4 +1,4 @@
-# Online Python Programlama Dili ve Uygulamaları Kursu (460 saat).
+# Online Python Programlama Dili ve Uygulamaları Kursu (460 Saat).
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
 + Kurs __18 Mayıs 2024__ tarihinde başlayacaktır.
