@@ -1,11 +1,11 @@
-# Online-Python-Programlama-Dili-ve-Uygulamaları (460 saat).
+# Online Python Programlama Dili ve Uygulamaları Kursu (460 saat).
 
-+ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
++ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
 + Kurs __18 Mayıs 2024__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __460__ saattir. Kursun __230__ saatlik kısmı temel düzeyde __Python__ dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır.
-+ Dersler __Pazartesi ve Çarşamba__ günleri __17:00- 21:00__ saatleri arasında __4__'er saat __(haftada 8 saat)__ yapılacaktır. 
++ Dersler __Cumartesi ve Pazar__ günleri __17:00 - 21:00__ saatleri arasında __4__'er saat __(haftada 8 saat)__ yapılacaktır. 
 + Kursumuzun toplam ücreti __KDV dahil 55.200 TL__'dir. Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 55.200 TL__'dir. Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar
