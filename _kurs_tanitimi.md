@@ -7,7 +7,7 @@ Kursun temel özellikleri şöyle betimlenebilir:
 
 * Kurs __Python__ Programlama Dilini ayrıntılı biçimde ve uygulamalı olarak öğretme iddiasındadır.
 
-* Kurs iki kısımdan oluşmaktadır. Birinci kısım programlama dili üzerinde yoğunlaşırken ikinci kısım tamamen uygulama geliştirme konusuna yoğunlaşmaktadır. Dilerseniz kursun yanlnızca uygulama kısmına katılabilirsiniz.
+* Kurs iki kısımdan oluşmaktadır. Birinci kısım programlama dili üzerinde yoğunlaşırken ikinci kısım tamamen uygulama geliştirme konusuna yoğunlaşmaktadır. Dilerseniz kursun yalnızca uygulama kısmına katılabilirsiniz.
 
 * Kurs __Yapay Zeka ve Makine Öğrenmesi__ kursu için bir hazırlık kursu işlevini de görmektedir. 
 
