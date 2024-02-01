@@ -9,7 +9,7 @@ Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online 
 Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar kullanılmasını öneriyoruz. İnternet bağlantısı olan herhangi bir yerden derslere katılabilirsiniz.
 
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
-Dersleri izleyen __3__ gün içinde dersleri size özel verilecek şifre ile __Vimeo__ üzerinden izleyebilirsiniz.
+Kesin kayıt yaptıran tüm öğrencilerimiz yapılan dersin kaydını ileteceğimiz VIMEO bağlantısı üzerinden izleyebilirler.
 
 ### 460 saatlik bir kurs süresi çok uzun değil mi?
 Eğitim içeriği göz önüne alındığında `460` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
