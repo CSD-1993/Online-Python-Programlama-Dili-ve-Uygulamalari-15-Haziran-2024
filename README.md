@@ -14,5 +14,5 @@
 + [Kurs İçeriği - Temel Kısım](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/kurs_icerigi_temel_kisim.md)
 + [Kurs İçeriği - Uygulama Kısmı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/kurs_icerigi_uygulama.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZMtfuuurDktHtM366iqSdL668-zoBFLGmdx#/registration)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZMtfuuurDktHtM366iqSdL668-zoBFLGmdx#/registration)
 
