@@ -6,7 +6,7 @@
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __460__ saattir. Kursun __230__ saatlik kısmı temel düzeyde __Python__ dilini anlatmaktadır. Kursun 2. kısmı uygulama ağırlıklıdır.
 + Dersler __Cumartesi ve Pazar__ günleri __17:00 - 21:00__ saatleri arasında __4__'er saat __(haftada 8 saat)__ yapılacaktır. 
-+ Kursumuzun toplam ücreti __KDV dahil 55.200 TL__'dir (Peşin ödemede __49.500 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 51.000 TL__'dir (Peşin ödemede __46.000 TL__ ’dir). Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir.
++ Kursumuzun toplam ücreti __KDV dahil 55.200 TL__'dir (Peşin ödemede __49.500 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 51.000 TL__'dir (Peşin ödemede __46.000 TL__ ’dir). Kurs ücreti peşin ya da __3 taksit__ olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-ve-Uygulamalari---18-Mayis-2024/blob/main/_kurs_tanitimi.md
